@@ -16,7 +16,7 @@ I=temp; clear temp;
 figure,imshow(I) %show the extended image
 [M N s]=size(I)
 
-for r = 0:1:100  % rotation the image 100 times.
+for r = 0:1:100  % rotate the image 100 times.
 
   teta = pi/180;
   a = tan(teta/4);
