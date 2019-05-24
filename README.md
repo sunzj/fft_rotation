@@ -1,6 +1,6 @@
 # fft_rotation
 
-Perform High quality image rotation by fft
+Perform High quality image Rotation by FFT
 
 1.Base http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.190.4473&rep=rep1&type=pdf
 
